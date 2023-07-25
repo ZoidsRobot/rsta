@@ -25,7 +25,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "907544310"))
 OWNER = os.environ.get("OWNER","Eror_404_NF")
 
 # Databasenya 
-DB_URI = os.environ.get("DATABASE_URL", "postgres://awxqnloq:A871j1eJ9OHBUwyb00babO3uw3HWd_Dj@castor.db.elephantsql.com/awxqnloq")
+DB_URI = os.environ.get("DATABASE_URL", "postgres://ymjqemdz:2zN_CdgksZFmoS1YpzV3RFj8IayWBIdg@mahmud.db.elephantsql.com/ymjqemdz")
 
 # Username CH & Group
 CHANNEL = os.environ.get("CHANNEL", "vvslh_pro")
