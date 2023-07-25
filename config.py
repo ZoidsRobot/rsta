@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID", "9774346"))
 API_HASH = os.environ.get("API_HASH", "a92aed7d74654a563af4b07efbcd88e9")
 
 # ID Channel Databas
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001422964183"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001787612624"))
 
 # OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "907544310"))
@@ -32,9 +32,9 @@ CHANNEL = os.environ.get("CHANNEL", "vvslh_pro")
 GROUP = os.environ.get("GROUP", "vvslh_pro")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL","-1001819120996"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL","-1001986710508"))
 
-FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001924093760"))
+FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001975712370"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
